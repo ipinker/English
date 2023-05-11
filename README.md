@@ -1,27 +1,58 @@
-# English
+# Language
 
 #### 介绍
-英语学习笔记
+* 学习工具
+	+ English
+	+ Japanese
+	+ Computer
+		* Protocol
+			+ Http
+			+ Tcp
+			+ Ip
+			+ UDP
+			+ ...
+		* Composition
+			+ CPU
+			+ Register
+			+ Catch
+			+ Memory
+			+ GPU
+			+ ...
+	+ C/C++
+	+ Java
+	+ JavaScript
+		* Ecma
+			* 2015
+			* 2016
+			* 2017
+			* 2018
+			* 2019
+			* 2020
+			* 2021
+			* 2022
+			* 2023
+		* Vue
+			+ V2
+			+ V3
+		* React
+	+ Xml
+	+ Html
+	+ CSS
 
 #### 软件架构
-软件架构说明
+* TypeScript
+* Uniapp
+* Vue3
+
+#### 状态
+开发中...
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+...
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+...
 
 #### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+...
